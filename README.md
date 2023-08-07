@@ -1,1 +1,1 @@
-# Java_Mini_Project
+# Trading Journal
